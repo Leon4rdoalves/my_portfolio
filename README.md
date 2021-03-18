@@ -2,7 +2,7 @@
 ### My current portfolio.
 
 <p>
-being developed primarily in HTML, CSS and JAVASCRIPT.  
+Developed primarily in HTML, CSS and JAVASCRIPT.  
 <br>Contributions are welcome.
 </p>
 
