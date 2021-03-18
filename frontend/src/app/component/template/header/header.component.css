@@ -1,0 +1,44 @@
+.navbar-brand {
+    color: #fff;
+    font-weight: 800;
+}
+
+.navbar-brand span {
+    color: #0ff;
+}
+
+.navbar-brand:hover {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: 0.3s;
+}
+
+.navbar-brand img {
+    width: 30px;
+    height: 30px;
+
+}
+
+.collapse .navbar-nav .nav-item:hover {
+    letter-spacing: 2px;
+    transition: 0.3s;
+}
+
+.collapse .navbar-nav .nav-item .dropdown-menu {
+    background-color: rgba(179, 179, 179, 0.5);
+}
+
+.collapse .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover {
+    color: #111;
+    background: rgba(130, 245, 235, 0.3);
+    letter-spacing: 2px;
+    transition: 0.3s;
+}
+
+.collapse .navbar-nav .nav-item .nav-link:hover {
+    color: #0ff
+}
+
+.dropdown-menu {
+    background: rgba(0,0,0,0.3);
+}
