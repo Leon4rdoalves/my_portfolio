@@ -18,6 +18,10 @@ footer{
     color: black;
 }
 
+.text-center {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
 .text-center span {
     color: #0ff;
 }
