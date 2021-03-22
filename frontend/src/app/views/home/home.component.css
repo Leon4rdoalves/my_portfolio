@@ -1,0 +1,27 @@
+.texto {
+    font-size: 1.2rem;
+    padding: 2px;
+    color: #fff;
+    
+}
+
+.texto h2 {
+    padding-top: 3px;
+}
+
+.texto span {
+    color: #0ff;
+}
+
+/*
+#video {
+    background: red;
+}
+*/
+#texto{
+    background: rgba(0,0,0,0.5);  
+}
+
+#texto:hover {
+    background: rgba(0,0,0,2);
+}
